@@ -10,7 +10,8 @@ Pocket Aces puts a senior executive in your pocket for a share of the week. Each
 
 | Ace | What they do |
 |---|---|
-| CTO and AI | Architecture, delivery and AI strategy |
+| CTO | Architecture, engineering leadership and delivery |
+| CAIO | AI strategy, agent engineering and governance |
 | Forward Deployed Engineer | An engineer embedded in your team |
 | CISO and security | Security leadership and review |
 | COO and operations | Process, people and execution |
